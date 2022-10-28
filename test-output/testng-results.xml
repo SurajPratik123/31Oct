@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-25T13:50:25 IST" name="Default suite" finished-at="2022-10-25T13:50:43 IST" duration-ms="18081">
+    <groups>
+    </groups>
+    <test started-at="2022-10-25T13:50:25 IST" name="Default test" finished-at="2022-10-25T13:50:43 IST" duration-ms="18081">
+      <class name="test.RedBTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.RedBTest@6ae5aa72]" started-at="2022-10-25T13:50:25 IST" name="launchBrowser" finished-at="2022-10-25T13:50:31 IST" duration-ms="6199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="bookTicketTest()[pri:0, instance:test.RedBTest@6ae5aa72]" started-at="2022-10-25T13:50:31 IST" name="bookTicketTest" finished-at="2022-10-25T13:50:43 IST" duration-ms="11842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketTest -->
+      </class> <!-- test.RedBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
