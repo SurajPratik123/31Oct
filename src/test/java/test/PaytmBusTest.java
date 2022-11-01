@@ -38,5 +38,10 @@ public class PaytmBusTest {
 	public void takeSS() throws IOException {
 		Screenshot.takeScreenshot(driver, "bus");
 	}
+	
+	@Test
+	public void test31() {
+		System.out.println("Hello");
+	}
 
 }
